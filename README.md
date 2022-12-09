@@ -8,4 +8,6 @@ My application requires select engineer or intern option
 
 My application works functionally, ehn I exit the application, and the HTML is generated
 
+#SCREENSHOT:
 
+<img src="Capture.PNG">
